@@ -2,4 +2,6 @@
 
 ## Sección 1 Introducción
 
-Esta es la primer línea original de texto, y termína aquí.
+Esta es la primer línea original de texto, y ya no termína aquí.Ahora termina aquí.
+
+Además, añadimos esta línea.
